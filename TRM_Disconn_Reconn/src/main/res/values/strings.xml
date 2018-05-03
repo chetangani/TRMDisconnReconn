@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TRM Disconn Reconn</string>
+
+    <string name="company_details">© 2018 Transvision Software &amp; Data Solutions Pvt Ltd.\n
+        All Rights Reserved\n<u>www.transvisionsolutions.com</u></string>
+
+    <string name="login">LOGIN</string>
+    <string name="mrcode">MRCode</string>
+    <string name="password">Password</string>
+    <string name="reading_date">Date</string>
+    <string name="select_cancel">Cancel</string>
+    <string name="select_ok">OK</string>
+    <string name="rupee">\u20B9</string>
+    <string name="mrcode_enter">Enter MRCode</string>
+    <string name="mrcode_valid">Enter Valid MRCode</string>
+    <string name="password_enter">Enter Password</string>
+
+    <string name="card_account_id_text">Account ID     :</string>
+    <string name="card_arrears_text">Arrears     :</string>
+    <string name="card_dis_date_text">Disconnection Date  :</string>
+    <string name="card_re_date_text">Reconnection Date  :</string>
+    <string name="prev_read_disconnection_text">Prev Read   :</string>
+    <string name="name_text">Name   :</string>
+    <string name="address_text">Address   :</string>
+    <string name="enter_current_reading">Enter Current Reading</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="reconnect">RECONNECT</string>
+    <string name="disconnect_current_reading">Enter Current Reading &amp; proceed&#8230;</string>
+    <string name="validate_disconnect_reading">Enter current reading more than previous reading&#8230;</string>
+    <string name="disconnecting">Disconnecting</string>
+    <string name="disconnecting_msg">Updating Disconnection results please wait&#8230;</string>
+    <string name="login_details_validating">Please wait&#8230; Validating Login details&#8230;</string>
+    <string name="internet_connection">Please check the internet connection and proceed&#8230;</string>
+    <string name="internet_title">Internet Connection</string>
+    <string name="login_failure_title">Login Failure</string>
+    <string name="login_failure_msg">Login Details did not match&#8230; Please check once again&#8230;</string>
+    <string name="disconnection">Disconnection</string>
+    <string name="reconnection">Reconnection</string>
+    <string name="logout">Logout</string>
+    <string name="disconnection_dlg_title">Disconnection Result</string>
+    <string name="disconnection_dlg_msg">Fetching Disconnection results&#8230;, Please wait&#8230;</string>
+    <string name="reconnection_dlg_title">Reconnection Result</string>
+    <string name="reconnection_dlg_msg">Fetching Reconnection results&#8230;, Please wait&#8230;</string>
+    <string name="disconnection_msg">Disconnection of</string>
+    <string name="disconnection_success_msg_1">is updated &amp; disconnected successfully&#8230;</string>
+    <string name="disconnection_failure_msg_1">is failed&#8230; Please check once again&#8230;</string>
+    <string name="reconnection_msg">Reconnection of</string>
+    <string name="reconnection_success_msg_1">is updated &amp; reconnected successfully&#8230;</string>
+    <string name="reconnection_failure_msg_1">is failed&#8230; Please check once again&#8230;</string>
+    <string name="reconnecting">Reconnecting</string>
+    <string name="reconnecting_msg">Updating Reconnection results please wait&#8230;</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Chetan Gani</string>
+    <string name="nav_header_subtitle">chetan.gani@transvision.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
